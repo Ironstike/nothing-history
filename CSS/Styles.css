@@ -1,0 +1,123 @@
+@import url("../webfonts/Ndot_57_Aligned/stylesheet.css");
+@import url("../webfonts/Ndot_55/stylesheet.css");
+@import url("../webfonts/NType82_Headline/stylesheet.css");
+body {
+    background-image: url(../images/wallpaper5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    font-family: "Ndot 55";
+    line-height: 22px;
+}
+    .homepics {
+    width: auto;
+    height: 300px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+section , nav{
+    width: 85%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+    padding-right: 5%;
+    padding-bottom: 15px;
+    padding-left: 5%;
+    background-color: #212121;
+    border-radius: 14px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+}
+div {
+    background-color: #191919;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    font-family: "NType82 Headline";
+}
+a	{
+    color: white;
+    text-decoration: none;
+    vertical-align: middle;
+}
+a:hover{
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+p   {
+    font-family: "NType82 Headline";
+    padding-left: 5px;
+    padding-right: 10px;
+    border-width: 40%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: lighter;
+    min-height: 5px;
+    line-height: 22px;
+}
+h2 {
+    font-family: "Ndot 57 Aligned";
+}
+h1 {
+    font-family: "Ndot 55";
+    font-size: 2.7em;
+    text-align: center;
+}
+.link {
+    text-decoration: underline;
+    line-height: 1px;
+}
+.bigdiv {
+    width: 90%;
+}
+.navitem {
+    margin-top: 6px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    background-color: #000000;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+.selected {
+    color: #C60000;
+    font-size: 1.4em;
+    padding-top: 0px;
+    margin-top: -62px;
+}
+.biggerpics {
+    width: auto;
+    height: 500px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 25px;
+}
+.bigh2 {
+    font-family: "Ndot 57 Aligned";
+    line-height: 45px;
+}
+.bigh1 {
+    font-size: 7em;
+}
