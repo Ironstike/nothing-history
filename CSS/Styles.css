@@ -121,3 +121,6 @@ h1 {
 .bigh1 {
     font-size: 7em;
 }
+li {
+    text-align: left;
+}
